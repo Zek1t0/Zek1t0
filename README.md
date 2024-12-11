@@ -1,10 +1,10 @@
 Hi 👋 My name is Duarte Ezequiel
 ================================
 
-Desarrollador Front-End | JavaScript | React
+Web Developer | JavaScript | React
 --------------------------------------------
 
-Hi! I’m Ezequiel Duarte, a Front-End Developer passionate about creating accessible and functional web interfaces. With expertise in HTML, CSS, and JavaScript, I specialize in frameworks like React. I’m always eager to learn and grow professionally.
+Hi! I’m Ezequiel Duarte, a Web Developer but mainly focused on Front-End, passionate about creating accessible and functional web interfaces. With expertise in HTML, CSS, and JavaScript, I specialize in frameworks like React. I’m always eager to learn and grow professionally.
 
 * 🌍  I'm based in Northern Argentina
 * 🖥️  See my portfolio at [Pending](http://Pendiente)
